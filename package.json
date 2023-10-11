@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AVSOLVE/treinamento-tdd/issues"
   },
-  "homepage": "https://github.com/AVSOLVE/treinamento-tdd#readme"
+  "homepage": "https://github.com/AVSOLVE/treinamento-tdd#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.4"
+  }
 }
